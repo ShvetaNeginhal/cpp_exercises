@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  BillingSys.cpp
+  POS.cpp
+  Sale.cpp
+  SaleItem.cpp
+  SaleList.cpp
+c:\users\alchemy.desktop-v8a10hm\documents\source codes\pos\pos\salelist.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  TaxCalcFactory.cpp
+  Generating Code...
+  POS.vcxproj -> C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\POS\Debug\POS.exe

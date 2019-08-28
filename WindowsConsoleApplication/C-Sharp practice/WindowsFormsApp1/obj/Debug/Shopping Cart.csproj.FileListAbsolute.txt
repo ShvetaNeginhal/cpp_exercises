@@ -1,0 +1,10 @@
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\WindowsFormsApp1\obj\Debug\Shopping Cart.csprojAssemblyReference.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\WindowsFormsApp1\obj\Debug\Shopping Cart.csproj.GenerateResource.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\WindowsFormsApp1\obj\Debug\Shopping Cart.csproj.CoreCompileInputs.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

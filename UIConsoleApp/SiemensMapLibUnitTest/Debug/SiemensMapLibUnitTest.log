@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  unittest1.cpp
+c:\users\alchemy.desktop-v8a10hm\documents\source codes\uiconsoleapp\siemensmaplibunittest\unittest1.cpp(16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\alchemy.desktop-v8a10hm\documents\source codes\uiconsoleapp\siemensmaplibunittest\unittest1.cpp(60): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\UIConsoleApp\Debug\SiemensMapLibUnitTest.lib and object C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\UIConsoleApp\Debug\SiemensMapLibUnitTest.exp
+  SiemensMapLibUnitTest.vcxproj -> C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\UIConsoleApp\Debug\SiemensMapLibUnitTest.dll

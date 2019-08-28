@@ -1,0 +1,4 @@
+﻿  HW_Problem.cpp
+c:\users\alchemy.desktop-v8a10hm\documents\source codes\file handling\hw_problem\hw_problem\hw_problem.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\alchemy.desktop-v8a10hm\documents\source codes\file handling\hw_problem\hw_problem\hw_problem.cpp(48): warning C4018: '<': signed/unsigned mismatch
+  HW_Problem.vcxproj -> C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\File Handling\HW_Problem\Debug\HW_Problem.exe

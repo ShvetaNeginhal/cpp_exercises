@@ -1,0 +1,7 @@
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Validate Credit Card\bin\Debug\Validate Credit Card.exe.config
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Validate Credit Card\bin\Debug\Validate Credit Card.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Validate Credit Card\bin\Debug\Validate Credit Card.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Validate Credit Card\obj\Debug\Validate Credit Card.csprojAssemblyReference.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Validate Credit Card\obj\Debug\Validate Credit Card.csproj.CoreCompileInputs.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Validate Credit Card\obj\Debug\Validate Credit Card.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Validate Credit Card\obj\Debug\Validate Credit Card.pdb

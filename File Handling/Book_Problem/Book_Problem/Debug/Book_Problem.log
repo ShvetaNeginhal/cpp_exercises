@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Book_Problem.cpp
+c:\users\alchemy.desktop-v8a10hm\documents\source codes\file handling\book_problem\book_problem\book_problem.cpp(103): warning C4018: '<': signed/unsigned mismatch
+  Book_Problem.vcxproj -> C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\File Handling\Book_Problem\Debug\Book_Problem.exe

@@ -1,0 +1,10 @@
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Buy Your Meal\bin\Debug\Buy Your Meal.exe.config
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Buy Your Meal\bin\Debug\Buy Your Meal.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Buy Your Meal\bin\Debug\Buy Your Meal.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Buy Your Meal\obj\Debug\Buy Your Meal.csprojAssemblyReference.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Buy Your Meal\obj\Debug\Buy_Your_Meal.Form1.resources
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Buy Your Meal\obj\Debug\Buy_Your_Meal.Properties.Resources.resources
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Buy Your Meal\obj\Debug\Buy Your Meal.csproj.GenerateResource.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Buy Your Meal\obj\Debug\Buy Your Meal.csproj.CoreCompileInputs.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Buy Your Meal\obj\Debug\Buy Your Meal.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Buy Your Meal\obj\Debug\Buy Your Meal.pdb

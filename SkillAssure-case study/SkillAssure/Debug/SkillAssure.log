@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  Assessment.cpp
+  Course.cpp
+  Iteration.cpp
+c:\users\alchemy.desktop-v8a10hm\documents\source codes\skillassure\skillassure\iteration.cpp(7): error C2512: 'Course': no appropriate default constructor available
+  c:\users\alchemy.desktop-v8a10hm\documents\source codes\skillassure\skillassure\course.h(6): note: see declaration of 'Course'
+  Question.cpp
+  SkillAssure.cpp
+  TrainingModel.cpp
+  Generating Code...

@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  SquareRoot-Exception Handling.cpp
+c:\users\alchemy.desktop-v8a10hm\documents\source codes\exception handling files\squareroot-exception handling\squareroot-exception handling\squareroot-exception handling.cpp(27): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  SquareRoot-Exception Handling.vcxproj -> C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\Exception Handling Files\SquareRoot-Exception Handling\Debug\SquareRoot-Exception Handling.exe

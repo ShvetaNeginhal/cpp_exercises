@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  ExceptionHandling.cpp
+c:\users\alchemy.desktop-v8a10hm\documents\source codes\exception handling files\exceptionhandling\exceptionhandling\exceptionhandling.cpp(18): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\alchemy.desktop-v8a10hm\documents\source codes\exception handling files\exceptionhandling\exceptionhandling\exceptionhandling.cpp(46): warning C4101: 'ex': unreferenced local variable
+  ExceptionHandling.vcxproj -> C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\Exception Handling Files\ExceptionHandling\Debug\ExceptionHandling.exe

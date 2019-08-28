@@ -1,0 +1,7 @@
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Pearson\obj\Debug\Pearson.csprojAssemblyReference.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Pearson\obj\Debug\Pearson.csproj.CoreCompileInputs.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Pearson\bin\Debug\Pearson.exe.config
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Pearson\bin\Debug\Pearson.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Pearson\bin\Debug\Pearson.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Pearson\obj\Debug\Pearson.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\Pearson\obj\Debug\Pearson.pdb

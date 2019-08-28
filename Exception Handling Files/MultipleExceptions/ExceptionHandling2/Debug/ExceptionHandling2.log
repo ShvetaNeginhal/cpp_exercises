@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  ExceptionHandling2.cpp
+c:\users\alchemy.desktop-v8a10hm\documents\source codes\exception handling files\exceptionhandling2\exceptionhandling2\exceptionhandling2.cpp(51): warning C4101: 'bal': unreferenced local variable
+  ExceptionHandling2.vcxproj -> C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\Exception Handling Files\ExceptionHandling2\Debug\ExceptionHandling2.exe

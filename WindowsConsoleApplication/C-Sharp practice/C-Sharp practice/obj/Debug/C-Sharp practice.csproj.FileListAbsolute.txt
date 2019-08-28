@@ -1,0 +1,7 @@
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\C-Sharp practice\obj\Debug\C-Sharp practice.csprojAssemblyReference.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\C-Sharp practice\obj\Debug\C-Sharp practice.csproj.CoreCompileInputs.cache
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\C-Sharp practice\bin\Debug\C-Sharp practice.exe.config
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\C-Sharp practice\bin\Debug\C-Sharp practice.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\C-Sharp practice\bin\Debug\C-Sharp practice.pdb
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\C-Sharp practice\obj\Debug\C-Sharp practice.exe
+C:\Users\Alchemy.DESKTOP-V8A10HM\Documents\Source codes\PLT-2 C#\C-Sharp practice\C-Sharp practice\obj\Debug\C-Sharp practice.pdb
